@@ -1,4 +1,4 @@
-```markdown
+
 # TeenyJSON
 
 TeenyJSON is a lightweight JSON processing library for Java. It provides simple and efficient ways to serialize and deserialize Java objects to and from JSON.
@@ -70,4 +70,3 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 ## Authors
 
 - Alex Cova - [alex-cova](https://github.com/alex-cova)
-```
